@@ -1,0 +1,10 @@
+Original Tensorcraft room-occupancy-v1 starter code and project writing:
+SPDX-License-Identifier: CC0-1.0
+
+To the extent possible under law, Tensorcraft has waived all copyright and
+related or neighboring rights to its original starter code and project
+writing. This work is provided without warranty. This dedication does not
+apply to the UCI dataset, TensorFlow.js or other third-party material.
+The dataset remains under CC BY 4.0; see DATA-LICENSE.md.
+
+CC0 legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
